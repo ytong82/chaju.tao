@@ -1,7 +1,8 @@
-#chaju.tao
-“察举.淘”是察举项目的一部分。“察举”是一个国内主流弹幕网站爬虫。
-由于使用的技术和“察举”项目不同，“察举”项目是基于Socket通讯的Python应用。
-“察举.淘”是基于PhantomJS技术的JavaScript应用。
+# chaju.tao
+
+chaju.tao is a part of chaju project.
+Since chaju.tao is a nodejs application using PhantomJS, which is different from chaju.
+So I make it as an independent project.
 
 支持下面的网站：
 taobaolive.taobao.com
